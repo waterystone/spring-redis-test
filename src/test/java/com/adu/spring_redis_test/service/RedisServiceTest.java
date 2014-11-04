@@ -27,6 +27,7 @@ public class RedisServiceTest {
 		String key = "YUNJIEDU:TEST:test";
 		String value = "hello,world";
 		redisService.set(key, value);
+		logger.debug("end~");
 	}
 
 	@Test
