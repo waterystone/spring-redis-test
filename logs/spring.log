@@ -1,0 +1,14 @@
+2014-11-04 19:24:05.723 DEBUG RedisServiceTest:22 - ret=null
+2014-11-04 19:25:18.169 DEBUG RedisServiceTest:22 - ret=hello,world
+2014-11-04 19:26:00.411 DEBUG RedisServiceTest:36 - ret=1
+2014-11-04 19:26:03.608 DEBUG RedisServiceTest:36 - ret=0
+2014-11-04 19:26:07.984 DEBUG RedisServiceTest:22 - ret=null
+2014-11-04 19:40:51.008 DEBUG RedisServiceTest:22 - ret=null
+2014-11-04 19:41:53.733 DEBUG RedisServiceTest:22 - ret=null
+2014-11-04 19:49:03.204 DEBUG RedisServiceTest:22 - ret=null
+2014-11-04 19:49:30.626 DEBUG RedisServiceTest:22 - ret=hello,world
+2014-11-04 19:51:03.279 DEBUG RedisServiceTest:22 - ret=hello,world
+2014-11-04 19:56:23.534 DEBUG RedisServiceTest:22 - ret=hello,world
+2014-11-04 19:58:25.251 DEBUG RedisServiceTest:22 - ret=hello,world
+2014-11-04 20:01:55.903 DEBUG RedisServiceTest:22 - ret=hello,world
+2014-11-04 20:02:36.397 DEBUG RedisServiceTest:36 - ret=1
